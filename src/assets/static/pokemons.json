@@ -1,0 +1,122 @@
+{
+  "water": [
+    {
+      "id": 1,
+      "name": "Squirtle",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
+      "powerLevel": 80,
+      "agressive": true
+    },
+    {
+      "id": 2,
+      "name": "Lapras",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png",
+      "powerLevel": 30,
+      "agressive": false
+    },
+    {
+      "id": 3,
+      "name": "Tentacruel",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png",
+      "powerLevel": 60,
+      "agressive": true
+    },
+    {
+      "id": 4,
+      "name": "Kingler",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png",
+      "powerLevel": 40,
+      "agressive": true
+    }
+  ],
+  "fire": [
+    {
+      "id": 1,
+      "name": "Charmander",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+      "powerLevel": 35,
+      "agressive": false
+    },
+    {
+      "id": 2,
+      "name": "Charizard",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+      "powerLevel": 55,
+      "agressive": true
+    },
+    {
+      "id": 3,
+      "name": "Arcanine",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png",
+      "powerLevel": 46,
+      "agressive": false
+    },
+    {
+      "id": 4,
+      "name": "Rapidash",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+      "powerLevel": 35,
+      "agressive": false
+    }
+  ],
+  "air": [
+    {
+      "id": 1,
+      "name": "Pidgeot",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png",
+      "powerLevel": 35,
+      "agressive": true
+    },
+    {
+      "id": 2,
+      "name": "Scyther",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/123.png",
+      "powerLevel": 42,
+      "agressive": true
+    },
+    {
+      "id": 3,
+      "name": "Yanma",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/193.png",
+      "powerLevel": 22,
+      "agressive": false
+    },
+    {
+      "id": 4,
+      "name": "Butterfree",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
+      "powerLevel": 62,
+      "agressive": true
+    }
+  ],
+  "electric": [
+    {
+      "id": 1,
+      "name": "Pikachu",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+      "powerLevel": 42,
+      "agressive": true
+    },
+    {
+      "id": 2,
+      "name": "Voltorb",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png",
+      "powerLevel": 42,
+      "agressive": true
+    },
+    {
+      "id": 3,
+      "name": "Electivire",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/466.png",
+      "powerLevel": 38,
+      "agressive": true
+    },
+    {
+      "id": 4,
+      "name": "Thundurus",
+      "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png",
+      "powerLevel": 98,
+      "agressive": true
+    }
+  ]
+}
