@@ -3,7 +3,7 @@ Repositorio oficial de la materia Frontend III (React) de Digital House, instruc
 
 Sigue estos pasos en tu términal para poder navegar el repo:
 
-1. git clone https://github.com/jayad23/f3_camada_8.git
-2. cd f3_camada_8
+1. git clone https://github.com/Rafaamaya/front-react.git
+2. cd front-react
 3. npm install
 4. npm run dev
