@@ -3,9 +3,7 @@ import Pokemon from "./Pokemon";
 
 const Lista = ({ type }) => {
   const data = pokemonData[type];
-  data.map(pokemon => (
-    console.log(pokemon)
-  ))
+
   return (
     <div>
       <div style={{ display: "flex", flexWrap: "wrap", gap: "15px",justifyContent:"center" }}>

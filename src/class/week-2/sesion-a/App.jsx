@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Lista from "./sesion/Lista";
+import Lista from "./Lista";
 
 
 export const App = () => {
