@@ -5,7 +5,9 @@ import "./style.css";
 /* import { App } from "./class/week-2/sesion-a/App" */
 /* import { App } from "./class/week-2/sesion-b/App" */
 /* import  App  from "./class/week-3/sesion-2/App"; */
-import  App  from "../src/class/week-3/sesion-1/App";
+/* import  App  from "../src/class/week-3/sesion-1/App"; */
+/* import  App  from "../src/class/week-3/sesion-3/App"; */
+import  App  from "../src/class/week-3/sesion-3/mesa/App";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
